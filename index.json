@@ -1,0 +1,11 @@
+{
+  "org": "mkdocstrings",
+  "repo": "griffe-runtime-objects",
+  "versions": [
+    {
+      "commit": "a417c8520c96e04f36ea2f81aa22282ecdf99b8d",
+      "tag": "0.3.2",
+      "parsed_at": "2026-10-10T22:43:04.329349+00:00"
+    }
+  ]
+}
