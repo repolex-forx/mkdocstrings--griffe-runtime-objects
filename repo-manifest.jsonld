@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/mkdocstrings/griffe-runtime-objects/commit/a417c8520c96e04f36ea2f81aa22282ecdf99b8d",
       "git:hexsha": "a417c8520c96e04f36ea2f81aa22282ecdf99b8d",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "0.3.2"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "0.3.2",
+      "repolex:parsedAt": "2026-10-10T22:43:04.328897+00:00"
     },
     {
       "@id": "https://repolex.ai/r/mkdocstrings/griffe-runtime-objects/commit/161fec6abea0510b49505cdfed0f8b80b3d6aa39",
